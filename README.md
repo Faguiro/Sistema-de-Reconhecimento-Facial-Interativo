@@ -153,8 +153,8 @@ Sinta-se à vontade para abrir *Issues*, sugerir melhorias ou enviar *Pull Reque
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Faguiro](https://github.com/Faguiro) 🚀  
-Entre em contato: faguiro2005@gmail.com
-Linkedin: [faguiro](https://linkedin.com/in/faguiro)
+- Desenvolvido por [Faguiro](https://github.com/Faguiro) 🚀  
+- Entre em contato: faguiro2005@gmail.com
+- Linkedin: [faguiro](https://linkedin.com/in/faguiro)
 
 
