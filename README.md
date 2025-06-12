@@ -139,3 +139,15 @@ Clique em qualquer um deles para iniciar o módulo correspondente em uma nova ja
 ├── dados_registrados.json  # "Banco de dados" com os dados faciais (criado automaticamente)
 └── README.md               # Este arquivo
 ```
+
+### 🤝 Contribuições
+
+Contribuições são bem-vindas!  
+Sinta-se à vontade para abrir *Issues*, sugerir melhorias ou enviar *Pull Requests*.
+
+1. Fork este repositório
+2. Crie sua branch (`git checkout -b feature/NovaFuncionalidade`)
+3. Commit suas mudanças (`git commit -m 'feat: nova funcionalidade'`)
+4. Push na sua branch (`git push origin feature/NovaFuncionalidade`)
+5. Abra um Pull Request
+
