@@ -151,6 +151,11 @@ Sinta-se à vontade para abrir *Issues*, sugerir melhorias ou enviar *Pull Reque
 4. Push na sua branch (`git push origin feature/NovaFuncionalidade`)
 5. Abra um Pull Request
 
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
+
 ## 👨‍💻 Autor
 
 - Desenvolvido por [Faguiro](https://github.com/Faguiro) 🚀  
